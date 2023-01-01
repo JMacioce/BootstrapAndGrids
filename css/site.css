@@ -31,3 +31,7 @@ main>.container {
     font-style: normal;
     color: rgb(102, 4, 69);
 }
+
+.minHeight {
+    min-height: 80vh;
+}
