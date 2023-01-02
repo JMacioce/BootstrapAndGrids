@@ -1,2 +1,2 @@
 ## Bootstrap And Grids
-Practicing Bootstrap by creating multiple mini project grid layout pages and putting them all into one
+Learning Bootstrap by creating multiple mini project grid layout pages and putting them all into one final project
