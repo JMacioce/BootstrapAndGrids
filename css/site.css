@@ -19,7 +19,7 @@ body > main {
 
 .homebg {
     width: 100%;
-    background: url("/img/synthwave.jpg");
+    background: url("/img/synthwave.jpg");    
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
